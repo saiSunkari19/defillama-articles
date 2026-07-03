@@ -1,0 +1,16 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='860' height='420' viewBox='0 0 860 420'><rect width='860' height='420' fill='#ffffff'/><text x='32' y='36' font-size='18' font-weight='700' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>Supply by peg mechanism</text>
+<path d='M 250.00 80.00 A 150 150 0 1 1 171.19 102.37 L 203.77 155.12 A 88 88 0 1 0 250.00 142.00 Z' fill='#0072B2'><title>fiat-backed: 284.5B (91.2%)</title></path>
+<rect x='560' y='90' width='16' height='16' rx='3' fill='#0072B2'/>
+<text x='584' y='103' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>fiat-backed — 284.5B (91.2%)</text>
+<path d='M 171.19 102.37 A 150 150 0 0 1 248.74 80.01 L 249.26 142.00 A 88 88 0 0 0 203.77 155.12 Z' fill='#E69F00'><title>crypto-backed: 27.0B (8.7%)</title></path>
+<rect x='560' y='120' width='16' height='16' rx='3' fill='#E69F00'/>
+<text x='584' y='133' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>crypto-backed — 27.0B (8.7%)</text>
+<path d='M 248.74 80.01 A 150 150 0 0 1 249.99 80.00 L 249.99 142.00 A 88 88 0 0 0 249.26 142.00 Z' fill='#009E73'><title>algorithmic: 412.0M (0.1%)</title></path>
+<rect x='560' y='150' width='16' height='16' rx='3' fill='#009E73'/>
+<text x='584' y='163' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>algorithmic — 412.0M (0.1%)</text>
+<path d='M 249.99 80.00 A 150 150 0 0 1 250.00 80.00 L 250.00 142.00 A 88 88 0 0 0 249.99 142.00 Z' fill='#D55E00'><title>crytpo-backed: 4.3M (0.0%)</title></path>
+<rect x='560' y='180' width='16' height='16' rx='3' fill='#D55E00'/>
+<text x='584' y='193' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>crytpo-backed — 4.3M (0.0%)</text>
+<text x='250' y='226' text-anchor='middle' font-size='14' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>Total</text>
+<text x='250' y='250' text-anchor='middle' font-size='20' font-weight='700' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>311.9B</text>
+</svg>
