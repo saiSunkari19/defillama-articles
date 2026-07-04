@@ -1,28 +1,28 @@
 <svg xmlns='http://www.w3.org/2000/svg' width='860' height='420' viewBox='0 0 860 420'><rect width='860' height='420' fill='#ffffff'/><text x='32' y='36' font-size='18' font-weight='700' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>Supply by peg type</text>
-<path d='M 250.00 80.00 A 150 150 0 1 1 245.54 80.07 L 247.38 142.04 A 88 88 0 1 0 250.00 142.00 Z' fill='#0072B2'><title>peggedUSD: 310.5B (99.5%)</title></path>
+<path d='M 250.00 80.00 A 150 150 0 1 1 245.52 80.07 L 247.37 142.04 A 88 88 0 1 0 250.00 142.00 Z' fill='#0072B2'><title>peggedUSD: 310.6B (99.5%)</title></path>
 <rect x='560' y='90' width='16' height='16' rx='3' fill='#0072B2'/>
-<text x='584' y='103' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedUSD — 310.5B (99.5%)</text>
-<path d='M 245.54 80.07 A 150 150 0 0 1 247.48 80.02 L 248.52 142.01 A 88 88 0 0 0 247.38 142.04 Z' fill='#E69F00'><title>peggedEUR: 643.8M (0.2%)</title></path>
+<text x='584' y='103' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedUSD — 310.6B (99.5%)</text>
+<path d='M 245.52 80.07 A 150 150 0 0 1 247.49 80.02 L 248.52 142.01 A 88 88 0 0 0 247.37 142.04 Z' fill='#E69F00'><title>peggedEUR: 652.3M (0.2%)</title></path>
 <rect x='560' y='120' width='16' height='16' rx='3' fill='#E69F00'/>
-<text x='584' y='133' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedEUR — 643.8M (0.2%)</text>
-<path d='M 247.48 80.02 A 150 150 0 0 1 249.17 80.00 L 249.51 142.00 A 88 88 0 0 0 248.52 142.01 Z' fill='#009E73'><title>peggedRUB: 558.4M (0.2%)</title></path>
+<text x='584' y='133' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedEUR — 652.3M (0.2%)</text>
+<path d='M 247.49 80.02 A 150 150 0 0 1 249.17 80.00 L 249.51 142.00 A 88 88 0 0 0 248.52 142.01 Z' fill='#009E73'><title>peggedRUB: 557.7M (0.2%)</title></path>
 <rect x='560' y='150' width='16' height='16' rx='3' fill='#009E73'/>
-<text x='584' y='163' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedRUB — 558.4M (0.2%)</text>
-<path d='M 249.17 80.00 A 150 150 0 0 1 249.48 80.00 L 249.70 142.00 A 88 88 0 0 0 249.51 142.00 Z' fill='#D55E00'><title>peggedVAR: 103.7M (0.0%)</title></path>
+<text x='584' y='163' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedRUB — 557.7M (0.2%)</text>
+<path d='M 249.17 80.00 A 150 150 0 0 1 249.48 80.00 L 249.70 142.00 A 88 88 0 0 0 249.51 142.00 Z' fill='#D55E00'><title>peggedVAR: 103.6M (0.0%)</title></path>
 <rect x='560' y='180' width='16' height='16' rx='3' fill='#D55E00'/>
-<text x='584' y='193' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedVAR — 103.7M (0.0%)</text>
+<text x='584' y='193' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedVAR — 103.6M (0.0%)</text>
 <path d='M 249.48 80.00 A 150 150 0 0 1 249.62 80.00 L 249.78 142.00 A 88 88 0 0 0 249.70 142.00 Z' fill='#CC79A7'><title>peggedCHF: 45.4M (0.0%)</title></path>
 <rect x='560' y='210' width='16' height='16' rx='3' fill='#CC79A7'/>
 <text x='584' y='223' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedCHF — 45.4M (0.0%)</text>
-<path d='M 249.62 80.00 A 150 150 0 0 1 249.71 80.00 L 249.83 142.00 A 88 88 0 0 0 249.78 142.00 Z' fill='#56B4E9'><title>peggedGBP: 31.7M (0.0%)</title></path>
+<path d='M 249.62 80.00 A 150 150 0 0 1 249.72 80.00 L 249.83 142.00 A 88 88 0 0 0 249.78 142.00 Z' fill='#56B4E9'><title>peggedGBP: 31.7M (0.0%)</title></path>
 <rect x='560' y='240' width='16' height='16' rx='3' fill='#56B4E9'/>
 <text x='584' y='253' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedGBP — 31.7M (0.0%)</text>
-<path d='M 249.71 80.00 A 150 150 0 0 1 249.81 80.00 L 249.89 142.00 A 88 88 0 0 0 249.83 142.00 Z' fill='#F0E442'><title>peggedJPY: 29.9M (0.0%)</title></path>
+<path d='M 249.72 80.00 A 150 150 0 0 1 249.81 80.00 L 249.89 142.00 A 88 88 0 0 0 249.83 142.00 Z' fill='#F0E442'><title>peggedJPY: 29.8M (0.0%)</title></path>
 <rect x='560' y='270' width='16' height='16' rx='3' fill='#F0E442'/>
-<text x='584' y='283' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedJPY — 29.9M (0.0%)</text>
-<path d='M 249.81 80.00 A 150 150 0 0 1 249.88 80.00 L 249.93 142.00 A 88 88 0 0 0 249.89 142.00 Z' fill='#999999'><title>peggedREAL: 26.2M (0.0%)</title></path>
+<text x='584' y='283' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedJPY — 29.8M (0.0%)</text>
+<path d='M 249.81 80.00 A 150 150 0 0 1 249.88 80.00 L 249.93 142.00 A 88 88 0 0 0 249.89 142.00 Z' fill='#999999'><title>peggedREAL: 26.3M (0.0%)</title></path>
 <rect x='560' y='300' width='16' height='16' rx='3' fill='#999999'/>
-<text x='584' y='313' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedREAL — 26.2M (0.0%)</text>
+<text x='584' y='313' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedREAL — 26.3M (0.0%)</text>
 <path d='M 249.88 80.00 A 150 150 0 0 1 249.92 80.00 L 249.95 142.00 A 88 88 0 0 0 249.93 142.00 Z' fill='#0072B2'><title>peggedSGD: 11.7M (0.0%)</title></path>
 <rect x='560' y='330' width='16' height='16' rx='3' fill='#0072B2'/>
 <text x='584' y='343' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedSGD — 11.7M (0.0%)</text>
@@ -41,27 +41,27 @@
 <path d='M 249.99 80.00 A 150 150 0 0 1 250.00 80.00 L 250.00 142.00 A 88 88 0 0 0 249.99 142.00 Z' fill='#56B4E9'><title>peggedCAD: 2.5M (0.0%)</title></path>
 <rect x='560' y='480' width='16' height='16' rx='3' fill='#56B4E9'/>
 <text x='584' y='493' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedCAD — 2.5M (0.0%)</text>
-<path d='M 250.00 80.00 A 150 150 0 0 1 250.00 80.00 L 250.00 142.00 A 88 88 0 0 0 250.00 142.00 Z' fill='#F0E442'><title>peggedKES: 164.0K (0.0%)</title></path>
+<path d='M 250.00 80.00 A 150 150 0 0 1 250.00 80.00 L 250.00 142.00 A 88 88 0 0 0 250.00 142.00 Z' fill='#F0E442'><title>peggedKES: 163.9K (0.0%)</title></path>
 <rect x='560' y='510' width='16' height='16' rx='3' fill='#F0E442'/>
-<text x='584' y='523' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedKES — 164.0K (0.0%)</text>
-<path d='M 250.00 80.00 A 150 150 0 0 1 250.00 80.00 L 250.00 142.00 A 88 88 0 0 0 250.00 142.00 Z' fill='#999999'><title>peggedCOP: 90.1K (0.0%)</title></path>
+<text x='584' y='523' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedKES — 163.9K (0.0%)</text>
+<path d='M 250.00 80.00 A 150 150 0 0 1 250.00 80.00 L 250.00 142.00 A 88 88 0 0 0 250.00 142.00 Z' fill='#999999'><title>peggedCOP: 89.7K (0.0%)</title></path>
 <rect x='560' y='540' width='16' height='16' rx='3' fill='#999999'/>
-<text x='584' y='553' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedCOP — 90.1K (0.0%)</text>
-<path d='M 250.00 80.00 A 150 150 0 0 1 250.00 80.00 L 250.00 142.00 A 88 88 0 0 0 250.00 142.00 Z' fill='#0072B2'><title>peggedCLP: 77.4K (0.0%)</title></path>
+<text x='584' y='553' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedCOP — 89.7K (0.0%)</text>
+<path d='M 250.00 80.00 A 150 150 0 0 1 250.00 80.00 L 250.00 142.00 A 88 88 0 0 0 250.00 142.00 Z' fill='#0072B2'><title>peggedCLP: 77.3K (0.0%)</title></path>
 <rect x='560' y='570' width='16' height='16' rx='3' fill='#0072B2'/>
-<text x='584' y='583' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedCLP — 77.4K (0.0%)</text>
+<text x='584' y='583' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedCLP — 77.3K (0.0%)</text>
 <path d='M 250.00 80.00 A 150 150 0 0 1 250.00 80.00 L 250.00 142.00 A 88 88 0 0 0 250.00 142.00 Z' fill='#E69F00'><title>peggedMXN: 55.8K (0.0%)</title></path>
 <rect x='560' y='600' width='16' height='16' rx='3' fill='#E69F00'/>
 <text x='584' y='613' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedMXN — 55.8K (0.0%)</text>
 <path d='M 250.00 80.00 A 150 150 0 0 1 250.00 80.00 L 250.00 142.00 A 88 88 0 0 0 250.00 142.00 Z' fill='#009E73'><title>peggedPEN: 38.0K (0.0%)</title></path>
 <rect x='560' y='630' width='16' height='16' rx='3' fill='#009E73'/>
 <text x='584' y='643' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedPEN — 38.0K (0.0%)</text>
-<path d='M 250.00 80.00 A 150 150 0 0 1 250.00 80.00 L 250.00 142.00 A 88 88 0 0 0 250.00 142.00 Z' fill='#D55E00'><title>peggedGHS: 24.1K (0.0%)</title></path>
+<path d='M 250.00 80.00 A 150 150 0 0 1 250.00 80.00 L 250.00 142.00 A 88 88 0 0 0 250.00 142.00 Z' fill='#D55E00'><title>peggedGHS: 24.0K (0.0%)</title></path>
 <rect x='560' y='660' width='16' height='16' rx='3' fill='#D55E00'/>
-<text x='584' y='673' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedGHS — 24.1K (0.0%)</text>
+<text x='584' y='673' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedGHS — 24.0K (0.0%)</text>
 <path d='M 250.00 80.00 A 150 150 0 0 1 250.00 80.00 L 250.00 142.00 A 88 88 0 0 0 250.00 142.00 Z' fill='#CC79A7'><title>peggedZAR: 2.1K (0.0%)</title></path>
 <rect x='560' y='690' width='16' height='16' rx='3' fill='#CC79A7'/>
 <text x='584' y='703' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>peggedZAR — 2.1K (0.0%)</text>
 <text x='250' y='226' text-anchor='middle' font-size='14' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>Total</text>
-<text x='250' y='250' text-anchor='middle' font-size='20' font-weight='700' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>311.9B</text>
+<text x='250' y='250' text-anchor='middle' font-size='20' font-weight='700' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>312.1B</text>
 </svg>

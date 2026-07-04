@@ -4,6 +4,17 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 
+# DeFiLlama's data contains a few misspelled pegMechanism values.
+# Normalize known typos so a category isn't split in tables/charts.
+_MECHANISM_ALIASES = {
+    "crytpo-backed": "crypto-backed",
+}
+
+
+def _normalize_mechanism(value: str) -> str:
+    value = (value or "").strip()
+    return _MECHANISM_ALIASES.get(value, value)
+
 
 @dataclass(frozen=True)
 class Stablecoin:
@@ -44,7 +55,7 @@ class Stablecoin:
             name=data.get("name", ""),
             symbol=data.get("symbol", ""),
             peg_type=data.get("pegType", ""),
-            peg_mechanism=data.get("pegMechanism", ""),
+            peg_mechanism=_normalize_mechanism(data.get("pegMechanism", "")),
             price=float(price) if price is not None else None,
             circulating=peg("circulating"),
             circulating_prev_day=peg("circulatingPrevDay"),

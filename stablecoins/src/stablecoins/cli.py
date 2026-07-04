@@ -5,7 +5,7 @@ from __future__ import annotations
 import argparse
 import os
 
-from . import analysis, charts
+from . import analysis, charts, render
 from .client import StablecoinsClient
 
 
@@ -72,23 +72,37 @@ def cmd_analyze(args) -> int:
     for name, val in analysis.peg_breakdown(coins).items():
         print(f"  {name:<16} {_fmt(val):>14}  ({val/grand_total*100:5.1f}%)")
 
-    if args.charts:
+    if args.charts or args.png:
         os.makedirs(args.out, exist_ok=True)
-        writes = {
-            "supply_bar.svg": charts.bar_chart(rows, top_n=args.top),
-            "mechanism_donut.svg": charts.donut_chart(
+        svgs = {
+            "supply_bar": charts.bar_chart(rows, top_n=args.top),
+            "mechanism_donut": charts.donut_chart(
                 analysis.mechanism_breakdown(coins), "Supply by peg mechanism"
             ),
-            "pegtype_donut.svg": charts.donut_chart(
+            "pegtype_donut": charts.donut_chart(
                 analysis.peg_breakdown(coins), "Supply by peg type"
             ),
         }
+        # Always write the SVG (source of truth); PNG is derived from it.
         print(f"\nCharts written to {args.out}/:")
-        for name, svg in writes.items():
-            path = os.path.join(args.out, name)
-            with open(path, "w", encoding="utf-8") as f:
+        for name, svg in svgs.items():
+            svg_path = os.path.join(args.out, f"{name}.svg")
+            with open(svg_path, "w", encoding="utf-8") as f:
                 f.write(svg)
-            print(f"  {path}")
+            print(f"  {svg_path}")
+
+        if args.png:
+            if render.available_backend() is None:
+                print(
+                    "\n[!] Cannot make PNGs: no converter found. "
+                    "Install librsvg (`brew install librsvg`) or `pip install cairosvg`."
+                )
+                return 1
+            print(f"\nPNGs (scale {args.scale}x) via {render.available_backend()}:")
+            for name, svg in svgs.items():
+                png_path = os.path.join(args.out, f"{name}.png")
+                render.svg_to_png(svg, png_path, scale=args.scale)
+                print(f"  {png_path}")
     return 0
 
 
@@ -106,6 +120,8 @@ def main(argv: list[str] | None = None) -> int:
     p_an = sub.add_parser("analyze", help="Analyze + visualize supply.")
     p_an.add_argument("-n", "--top", type=int, default=12)
     p_an.add_argument("--charts", action="store_true", help="Write SVG charts.")
+    p_an.add_argument("--png", action="store_true", help="Also write PNGs (for Word/Docs).")
+    p_an.add_argument("--scale", type=float, default=2.0, help="PNG scale factor (default 2x).")
     p_an.add_argument("--out", default="charts", help="Chart output dir.")
     p_an.set_defaults(func=cmd_analyze)
 

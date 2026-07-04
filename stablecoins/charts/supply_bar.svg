@@ -1,32 +1,38 @@
-<svg xmlns='http://www.w3.org/2000/svg' width='860' height='494' viewBox='0 0 860 494'><rect width='860' height='494' fill='#ffffff'/><text x='32' y='36' font-size='18' font-weight='700' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>Stablecoins by total supply</text>
+<svg xmlns='http://www.w3.org/2000/svg' width='860' height='574' viewBox='0 0 860 574'><rect width='860' height='574' fill='#ffffff'/><text x='32' y='36' font-size='18' font-weight='700' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>Stablecoins by total supply</text>
 <text x='198' y='83.0' text-anchor='end' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>USDT  ·  Tether</text>
 <rect x='210' y='64' width='530.0' height='30' rx='4' fill='#0072B2'><title>Tether: 184.1B</title></rect>
 <text x='748.0' y='83.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>184.1B (59.0%)</text>
 <text x='198' y='123.0' text-anchor='end' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>USDC  ·  USD Coin</text>
 <rect x='210' y='104' width='210.4' height='30' rx='4' fill='#E69F00'><title>USD Coin: 73.1B</title></rect>
-<text x='428.43369223817604' y='123.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>73.1B (23.4%)</text>
+<text x='428.36510681516233' y='123.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>73.1B (23.4%)</text>
 <text x='198' y='163.0' text-anchor='end' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>USDS  ·  Sky Dollar</text>
 <rect x='210' y='144' width='23.1' height='30' rx='4' fill='#009E73'><title>Sky Dollar: 8.0B</title></rect>
-<text x='241.0778365047642' y='163.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>8.0B (2.6%)</text>
+<text x='241.1051875385366' y='163.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>8.0B (2.6%)</text>
 <text x='198' y='203.0' text-anchor='end' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>DAI  ·  Dai</text>
-<rect x='210' y='184' width='13.9' height='30' rx='4' fill='#D55E00'><title>Dai: 4.8B</title></rect>
-<text x='231.9130463003037' y='203.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>4.8B (1.5%)</text>
+<rect x='210' y='184' width='14.0' height='30' rx='4' fill='#D55E00'><title>Dai: 4.8B</title></rect>
+<text x='231.95446452989316' y='203.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>4.8B (1.6%)</text>
 <text x='198' y='243.0' text-anchor='end' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>USD1  ·  World Liberty Fina</text>
 <rect x='210' y='224' width='13.3' height='30' rx='4' fill='#CC79A7'><title>World Liberty Financial USD: 4.6B</title></rect>
-<text x='231.27757049853807' y='243.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>4.6B (1.5%)</text>
+<text x='231.2682774956815' y='243.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>4.6B (1.5%)</text>
 <text x='198' y='283.0' text-anchor='end' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>USDe  ·  Ethena USDe</text>
 <rect x='210' y='264' width='12.8' height='30' rx='4' fill='#56B4E9'><title>Ethena USDe: 4.4B</title></rect>
-<text x='230.78344180468466' y='283.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>4.4B (1.4%)</text>
+<text x='230.78174250668812' y='283.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>4.4B (1.4%)</text>
 <text x='198' y='323.0' text-anchor='end' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>USYC  ·  Circle USYC</text>
 <rect x='210' y='304' width='8.9' height='30' rx='4' fill='#F0E442'><title>Circle USYC: 3.1B</title></rect>
-<text x='226.93765754310994' y='323.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>3.1B (1.0%)</text>
+<text x='226.9370953486448' y='323.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>3.1B (1.0%)</text>
 <text x='198' y='363.0' text-anchor='end' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>BUIDL  ·  BlackRock USD</text>
 <rect x='210' y='344' width='8.8' height='30' rx='4' fill='#999999'><title>BlackRock USD: 3.0B</title></rect>
-<text x='226.77544107690002' y='363.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>3.0B (1.0%)</text>
+<text x='226.7748890861375' y='363.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>3.0B (1.0%)</text>
 <text x='198' y='403.0' text-anchor='end' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>USDG  ·  Global Dollar</text>
 <rect x='210' y='384' width='8.3' height='30' rx='4' fill='#0072B2'><title>Global Dollar: 2.9B</title></rect>
-<text x='226.26434997522287' y='403.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>2.9B (0.9%)</text>
+<text x='226.30041021951857' y='403.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>2.9B (0.9%)</text>
 <text x='198' y='443.0' text-anchor='end' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>PYUSD  ·  PayPal USD</text>
-<rect x='210' y='424' width='7.9' height='30' rx='4' fill='#E69F00'><title>PayPal USD: 2.8B</title></rect>
-<text x='225.94666127969575' y='443.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>2.8B (0.9%)</text>
+<rect x='210' y='424' width='8.2' height='30' rx='4' fill='#E69F00'><title>PayPal USD: 2.8B</title></rect>
+<text x='226.17359785928372' y='443.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>2.8B (0.9%)</text>
+<text x='198' y='483.0' text-anchor='end' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>USDY  ·  Ondo US Dollar Yie</text>
+<rect x='210' y='464' width='6.2' height='30' rx='4' fill='#009E73'><title>Ondo US Dollar Yield: 2.1B</title></rect>
+<text x='224.18237975704446' y='483.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>2.1B (0.7%)</text>
+<text x='198' y='523.0' text-anchor='end' font-size='13' fill='#1a1a2e' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>RLUSD  ·  Ripple USD</text>
+<rect x='210' y='504' width='4.6' height='30' rx='4' fill='#D55E00'><title>Ripple USD: 1.6B</title></rect>
+<text x='222.5637823719012' y='523.0' font-size='12' fill='#6b7280' font-family='ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif'>1.6B (0.5%)</text>
 </svg>
