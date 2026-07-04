@@ -78,7 +78,7 @@ The successful peg not look glamorous by providing high yield returns, but also 
 
 - Second, **the asset allocation within the backing portfolio should be primarily designed to handle large redemption events, rather than to generate financial returns**. This ensure the ability to meet larger redemption in both normal and stressful times. 
     - HKD: Backing asset managed by the Exchange Fund in a segregated portfolio with high-quality, highly liquid US dollar-denominated assets. [[4]](#4)	
-    - USDT: Cash and equivalent (U.S. treasury bills, reverse repos, etc) accounts for roughly 80%; rest include secured loans, bitcoin, gold, and other investments [[5]](#5)
+    - USDT: Cash and equivalent (U.S. treasury bills, reverse repos, etc) accounts for roughly 82.87%; rest include secured loans, bitcoin, gold, and other investments [[5]](#5)
 
 To maintain, consistent adherence to these two principles is not easy, which is why many pegs have failed in the history of currencies. 
 
@@ -166,6 +166,7 @@ Here, stablecoin can use this to move towards cross border payments. Currenlty i
 
 However, it may also have more significant impact on banking and financial system.
 
+Now we talk about other side. 
 
 ---
 ## The things no one talks about 
@@ -175,7 +176,6 @@ However, it may also have more significant impact on banking and financial syste
 **In a world where stablecoins particularly those pegged to the Dollar, become an important global payment tool, we must brace ourselves for substantial consequnce.**
 </i>
 
-Based on Reference from Chart-1,  
 
 According to Tether, it's exposure to U.S treasury securities exceeded $127 billion at the end of Q2 2025, making it one of the largest holders of U.S. government debt globally.
 
@@ -185,7 +185,7 @@ How ever, a key consideration is whether a stable coins issuers are creating new
 
 ### Stablecoins by Peg Type
 ![Stable coin with their pegged token](image.png)
-> Chart 3: Stablecoin with pegged currently type, Source: DefiLlama , Data as 4.July.2026 - [[10]](#10)
+> Chart 3: Stablecoin with pegged currency type, Source: DefiLlama , Data as 4.July.2026 - [[10]](#10)
 
 If you see Chart-3,  clearly we have majority percentage **pegged to USD**.
 
@@ -228,6 +228,9 @@ But as a Individual / Bussiness the product we use, that will fulfill our needs,
 - With deep liquify 
 - Strong Backing 
 - Especially, provide confidence in people when unknown circumstance comes. 
+
+
+### <i> -> Let me know thoughts as well  </i>
 
 
 ## Refernces 
