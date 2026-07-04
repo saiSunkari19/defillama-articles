@@ -1,4 +1,4 @@
-# Defillama 
+# DefiLlama 
 
 
 This repo contain snippets to support articles.
@@ -7,7 +7,7 @@ This repo contain snippets to support articles.
 # stablecoins
 
 Fetch stablecoins and their total (circulating) supply from the
-[DeFiLlama stablecoins API](https://api-docs.defillama.com/#tag/stablecoins).
+[DefiLlama stablecoins API](https://api-docs.defillama.com/#tag/stablecoins).
 
 No third-party dependencies — uses the Python standard library only.
 
